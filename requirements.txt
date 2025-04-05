@@ -1,0 +1,7 @@
+PyTorch
+Torchvision
+PyTorch Geometric
+OpenCV
+NumPy
+Scikit-learn
+Pillow
