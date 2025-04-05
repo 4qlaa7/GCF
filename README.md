@@ -29,7 +29,7 @@ This repository contains the implementation of a deep learning pipeline utilizin
 ## Installation
 Clone the repository:
 ```bash
-git clone [<repo_url>](https://github.com/4qlaa7/GCF.git)
+git clone https://github.com/4qlaa7/GCF.git
 cd GCF
 ```
 
